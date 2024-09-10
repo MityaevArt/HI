@@ -1,21 +1,36 @@
-# Привет, я [Ваше Имя] 👋
+### Обо мне:
+Я - QA-инженер с амбициями развиваться и внести свой вклад в обеспечение качества продукта🚀  
+- 👩‍🎓 Успешно прошла курс "Инженер по тестированию" от  [Яндекс Практикума](https://practicum.yandex.ru)  
+- 🔎 Моя цель - стать надежным специалистом в области QA, способным гарантировать высокое качество продуктов и участвовать в их улучшении
+- 📄 Мое резюме [ссылка](https://drive.google.com/file/d/1O3SAQ6Fj1xl4DtnXIRDcLan8Tys6eysi/view?usp=sharing)  
+- ####  📩  Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@sofiiasleptsova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/софия-слепцова-649181284/) [![Gmail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:slepsovasonya@icloud.com)
 
-## О себе
-Я начинающий QA инженер-автоматизатор с опытом работы в [Ваши навыки/технологии]. Увлекаюсь автоматизацией тестирования и стремлюсь развивать свои навыки в [Дополнительные технологии или области интересов].
+----
+ 
+ ### Тестовая документация
+<p align="left"> 
+  <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968557.png" width="36" height="36" alt="Google Sheets" /></a>
+  <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
+  <a href="https://www.atlassian.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="36" height="36" alt="Jira" /></a>
+  <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/885/629/png-transparent-miro-hd-logo-thumbnail.png" width="36" height="36" alt="Miro" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968793.png" width="36" height="36" alt="Confluence" /></a>
+</p> 
 
-## 🔧 Технологии
-- Языки программирования: Python, JavaScript
-- Инструменты тестирования: Selenium, Pytest, Postman
-- Системы контроля версий: Git
-- CI/CD: Jenkins, GitHub Actions
+----
+ 
+ ### Тестирование приложений
+<p align="left"> 
+  <a><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="Devtools" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" width="36" height="36" alt="Postman" /></a>
+  <a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"><img src="https://davidwalsh.name/demo/charlesproxyicon.svg" width="36" height="36" alt="Charles" /></a>
+  <a href="https://developer.android.com/studio/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png" width="36" height="36" alt="Android Studio" /></a>
+</p> 
 
-## 📫 Как со мной связаться
-- Email: [ваш_email@example.com](mailto:ваш_email@example.com)
-- LinkedIn: [Ваш LinkedIn профиль](https://www.linkedin.com/in/ваш_профиль)
-
-## 🌱 В процессе обучения
-- Изучаю: [технологии или навыки, которые вы изучаете]
-
-### Мои проекты
-- [Название проекта 1](ссылка_на_проект_1)
-- [Название проекта 2](ссылка_на_проект_2)
+----
+ 
+ ### Работа с данными
+ <p align="left"> 
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+ </p> 
